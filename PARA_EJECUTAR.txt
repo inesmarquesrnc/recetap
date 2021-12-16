@@ -1,0 +1,6 @@
+Si quereis ejecutar mi código:
+en la consola -> 
+terminal:
+cd backend -> nodemon server.js
+new terminal:
+npm start
