@@ -1,0 +1,15 @@
+.registro_correcto{
+    padding: 2em;
+    text-align: center;
+}
+
+.boton_registro_correcto{
+    background-color: rgb(64, 143, 61);
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.boton_registro_correcto:hover{
+    background-color: rgb(70, 102, 56);
+    color: whitesmoke;
+}

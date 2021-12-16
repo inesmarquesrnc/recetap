@@ -1,0 +1,39 @@
+.registro {
+    background-color: rgb(243, 239, 239);
+    column-count: 2;
+    align-items: center;
+    margin:0 auto ;
+    border-radius: 8px;
+}
+
+.formulario{
+    margin-left: 5px;
+    margin-bottom: 1em;
+}
+input{
+    padding: 1px;
+    margin: 3px;
+    width: 100%;
+}
+
+.divBoton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botonFormulario{
+    background-color: rgb(64, 143, 61);
+    border-radius: "3px";
+    border-color: teal;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 6px;
+    margin-top: 1em;
+    width: 90%;
+}
+
+.botonFormulario:hover{
+    background-color: rgb(70, 102, 56);
+    color: rgb(204, 203, 203);
+}
